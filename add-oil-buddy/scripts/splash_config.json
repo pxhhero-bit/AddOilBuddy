@@ -1,0 +1,15 @@
+{
+  "blur": 11,
+  "veil_alpha": 0,
+  "tint": [
+    246,
+    248,
+    250
+  ],
+  "card_alpha": 243,
+  "card_w": 600,
+  "card_h": 240,
+  "card_radius": 25,
+  "card_dy": -40,
+  "shadow": 70
+}
